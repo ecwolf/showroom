@@ -370,7 +370,7 @@
                         {
                          "name":"default",
                          "type":"string",
-                         "value":"https:\/\/workadventu.re\/admin-guide\/streaming-conferences"
+                         "value":"https:\/\/youtu.be\/amoGBOBdwVI?si=3nxyoPlsvFgxzq0p"
                         }, 
                         {
                          "name":"description",
@@ -496,7 +496,7 @@
          "value":"src\/main.ts"
         }],
  "renderorder":"right-down",
- "tiledversion":"1.10.2",
+ "tiledversion":"1.11.2",
  "tileheight":32,
  "tilesets":[
         {
